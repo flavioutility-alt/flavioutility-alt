@@ -1,16 +1,22 @@
-## Hi there 👋
+# Flavio Massimiliano Ricci
 
-<!--
-**flavioutility-alt/flavioutility-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Physics student at **Sapienza University of Rome**, interested in statistical physics, complex systems and machine learning.
 
-Here are some ideas to get you started:
+I am interested in how physical principles can inform learning algorithms and how computational methods can help us understand complex systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research interests
+
+- Statistical physics and emergent phenomena
+- Complexity and collective behaviour
+- Machine learning for scientific research
+- Incorporating physical knowledge into machine learning and agent-based methods
+
+## Planned MSc thesis
+
+I am planning an MSc thesis on **physics-aware machine learning agents** with **Stefano Giagu** at Sapienza University of Rome.
+
+The scope and research questions are still being defined.
+
+## Academic direction
+
+I aim to pursue doctoral research at the intersection of physics and machine learning.
