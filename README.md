@@ -43,6 +43,6 @@ The scope and research questions are still being defined.
 
 ## Academic Direction
 
-I aim to pursue doctoral research in foundational machine learning, with particular interests in foundation models, reasoning, reinforcement learning and reliable AI systems.
+I aim to pursue doctoral research in foundational machine learning, with particular interests in understanding and developing foundation models and intelligent AI agents.
 
 My long-term ambition is to contribute to advances in machine learning through academic or industrial AI research.
