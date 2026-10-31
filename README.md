@@ -1,15 +1,15 @@
+
 # Flavio Massimiliano Ricci
 
-MSc Physics student at **Sapienza University of Rome**, interested in statistical physics, complex systems and machine learning.
+I am an MSc Physics student at **Sapienza University of Rome**, specializing in Statistical Physics and Complexity, with a growing research interest in foundational machine learning and artificial intelligence.
 
-I am interested in how physical principles can inform learning algorithms and how computational methods can help us understand complex systems.
+I am particularly interested in understanding how learning algorithms generalize, how foundation models develop reasoning capabilities, and how reliable AI agents can be designed. My background in statistical physics provides a complementary mathematical and computational perspective on optimization, learning dynamics and complex systems.
 
-## Research interests
+## Research Interests
 
-- Statistical physics and emergent phenomena
-- Complexity and collective behaviour
-- Machine learning for scientific research
-- Incorporating physical knowledge into machine learning and agent-based methods
+- **Foundational Machine Learning:** generalization, optimization, reinforcement learning and learning dynamics.
+- **Foundation Models and AI Agents:** reasoning, planning, robustness and interpretability.
+- **Statistical Physics of Learning:** connections between statistical mechanics, complex systems and machine learning.
 
 ## Selected Computational Projects
 
@@ -35,12 +35,16 @@ Implemented a three-dimensional XY spin-glass simulation combining parallel temp
 
 Implemented numerical studies of polynomial regression, perceptron learning and generalization. Extended the prescribed coursework with a supplementary investigation of update noise in a teacher–student perceptron model, supported by numerical results, figures and reports.
 
-## Planned MSc thesis
+## Planned MSc Thesis
 
 I am planning an MSc thesis on **physics-aware machine learning agents** with **Stefano Giagu** at Sapienza University of Rome.
 
 The scope and research questions are still being defined.
 
-## Academic direction
+## Academic Direction
 
-I aim to pursue doctoral research at the intersection of physics and machine learning.
+I aim to pursue doctoral research in foundational machine learning, with particular interests in foundation models, reasoning, reinforcement learning and reliable AI systems.
+
+My background in statistical physics and complex systems provides a complementary mathematical and computational perspective on these research questions.
+
+My long-term ambition is to contribute to advances in machine learning through academic or industrial AI research.
