@@ -45,6 +45,4 @@ The scope and research questions are still being defined.
 
 I aim to pursue doctoral research in foundational machine learning, with particular interests in foundation models, reasoning, reinforcement learning and reliable AI systems.
 
-My background in statistical physics and complex systems provides a complementary mathematical and computational perspective on these research questions.
-
 My long-term ambition is to contribute to advances in machine learning through academic or industrial AI research.
